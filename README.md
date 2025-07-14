@@ -5,7 +5,7 @@ This project demonstrates the manual implementation of **AdaFace loss**, a state
 - Manual implementation of **AdaFace loss** based on academic research
 - Experiments conducted on both **simple CNN (MNIST)** and **ResNet18 (CIFAR-10)**
 - Enhanced generalization and robustness on mixed-quality inputs
-- ⚙Tuning with dropout, batch normalization, and data augmentation to reduce overfitting
+- Tuning with dropout, batch normalization, and data augmentation to reduce overfitting
 
 ## Files Included
 - `Project_MNIST.ipynb`: AdaFace loss implementation on the MNIST dataset using a custom CNN
@@ -14,7 +14,5 @@ This project demonstrates the manual implementation of **AdaFace loss**, a state
 
 ## References
 - [AdaFace: Quality Adaptive Margin for Face Recognition](https://arxiv.org/abs/2204.00964)
-
----
 
 > This project was completed as part of an academic exploration of robust face recognition techniques using adaptive margin learning.
